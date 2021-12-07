@@ -4,15 +4,22 @@ body{
 p{
   color: blue
 }
-button{
-  background: cyan;
-}
+
 .para{
-  background: dark blue;
+  background: blue;
 }
 .sent{
   color: white;
 }
 h3{
   color: aquamarine;
+}
+button{
+  background-color: black;
+}
+.two{
+  background-color: lightgreen;
+}
+h1{
+  color: blanchedalmond;
 }
