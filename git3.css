@@ -1,3 +1,12 @@
 body{
-  background: red;
+    background-color: black;
+}
+p{
+  color: blue
+}
+button{
+  background: cyan;
+}
+.para{
+  background: green;
 }
